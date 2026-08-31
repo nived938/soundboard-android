@@ -1,0 +1,6 @@
+{
+  "name": "Soundboard",
+  "description": "Customizable soundboard app featuring high-quality audio clip playback, seamless looping, custom categories, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
